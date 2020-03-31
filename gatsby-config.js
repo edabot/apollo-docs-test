@@ -10,9 +10,9 @@ module.exports = {
         root: __dirname,
         subtitle: "Apollo Server",
         description: "A guide to using Apollo Server",
-        githubRepo: "apollographql/apollo-server",
+        // githubRepo: "apollographql/apollo-server",
         sidebarCategories: {
-          null: ["index"]
+          null: ["index", "intro/this"]
         }
       }
     }

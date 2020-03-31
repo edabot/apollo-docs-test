@@ -6030,7 +6030,7 @@ gatsby-theme-apollo-core@^3.0.11:
     react-helmet "^5.2.0"
     react-use "^9.11.0"
 
-gatsby-theme-apollo-docs@^4.1.1:
+gatsby-theme-apollo-docs@4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/gatsby-theme-apollo-docs/-/gatsby-theme-apollo-docs-4.1.1.tgz#5236207fa2428bb4a8336203fda49ad23c68db34"
   integrity sha512-ZV83sYtJHapHgdu3TIR7dejWGwgVMafLyOt3fIQ7XFxU3PGztGWwwoeL4kZ3i8M505+I0hMF8OtL1EO+oehkaw==
@@ -6062,7 +6062,7 @@ gatsby-theme-apollo-docs@^4.1.1:
     source-sans-pro "^3.6.0"
     striptags "^3.1.1"
 
-gatsby-transformer-remark@^2.6.30:
+gatsby-transformer-remark@^2.6.30, gatsby-transformer-remark@^2.7.1:
   version "2.7.1"
   resolved "https://registry.yarnpkg.com/gatsby-transformer-remark/-/gatsby-transformer-remark-2.7.1.tgz#986871c3ca9a1b7d1c609e8f378a68d808827770"
   integrity sha512-9geE8itjePDvaa0uWmyRgi2emPt9ut420YyjaNJ1/4eZw9Yj8zAuCdancw7j1buhL0UAxgQ2YseO6+MWTHEoMw==
@@ -6089,10 +6089,10 @@ gatsby-transformer-remark@^2.6.30:
     unist-util-select "^1.5.0"
     unist-util-visit "^1.4.1"
 
-gatsby@^2.20.9:
-  version "2.20.9"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.20.9.tgz#a32a0e74fb518b792b8fb348bb9a8ea32c4658d7"
-  integrity sha512-qvLBT3SvMpFMaEIFMm9q8YGKyBD6/T/xbQN0Ong0I9ecnqCUY3y9riPnhTsqHCcs1jVCRcUxgavf5BjRhTLfvg==
+gatsby@2.20.8:
+  version "2.20.8"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.20.8.tgz#d55dfe8a2efc8308858d6b4ebe70781eabbf176d"
+  integrity sha512-n3wtQ1zFIb9JpnO0059W/8CR81rH67doPQrhqlYjkPUSz1o4YjDdluF0PICyb0YX+f71AZr9pkWSwDqgJNcC3g==
   dependencies:
     "@babel/code-frame" "^7.8.3"
     "@babel/core" "^7.8.7"
