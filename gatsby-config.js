@@ -8,12 +8,19 @@ module.exports = {
       options: {
         ...themeOptions,
         root: __dirname,
-        subtitle: "Apollo Server",
-        description: "A guide to using Apollo Server",
+        subtitle: "This Site",
+        description: "A description of this site",
         // githubRepo: "apollographql/apollo-server",
         defaultVersion: "2",
         sidebarCategories: {
           null: ["index", "tutorial/whats-next"]
+        },
+        navConfig: {
+          "Other site": {
+            url: "https://www.google.com",
+            description: "Search on Google.",
+            omitLandingPage: true
+          }
         }
       }
     }
