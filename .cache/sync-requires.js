@@ -5,7 +5,6 @@ const preferDefault = m => m && m.default || m
 
 
 exports.components = {
-  "component---node-modules-gatsby-theme-apollo-docs-src-components-template-js": hot(preferDefault(require("/Users/edlewis/Sites/gatsby-apollo-docs/node_modules/gatsby-theme-apollo-docs/src/components/template.js"))),
   "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/edlewis/Sites/gatsby-apollo-docs/.cache/dev-404-page.js"))),
   "component---node-modules-gatsby-theme-apollo-core-src-pages-404-js": hot(preferDefault(require("/Users/edlewis/Sites/gatsby-apollo-docs/node_modules/gatsby-theme-apollo-core/src/pages/404.js")))
 }
