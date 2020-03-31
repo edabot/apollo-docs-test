@@ -12,7 +12,7 @@ module.exports = {
         description: "A guide to using Apollo Server",
         // githubRepo: "apollographql/apollo-server",
         sidebarCategories: {
-          null: ["index", "intro/this"]
+          null: ["index"]
         }
       }
     }
