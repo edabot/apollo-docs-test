@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-apollo-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "prestart": "gatsby clean",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "2.20.8",
+    "gatsby-theme-apollo-docs": "4.1.1",
+    "gatsby-transformer-remark": "^2.7.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
