@@ -11,8 +11,10 @@ module.exports = {
         subtitle: "This Site",
         description: "A description of this site",
         githubRepo: "edabot/apollo-docs-test",
-        defaultVersion: "1",
-
+        defaultVersion: "2",
+        versions: {
+          "1": "version_1"
+        },
         sidebarCategories: {
           null: ["index", "tutorial/whats-next"]
         },
